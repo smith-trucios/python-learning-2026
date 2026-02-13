@@ -1,10 +1,5 @@
 # Python Learning Journey 2026
 
-Learning Python from zero to ML Engineer.
-
-## Goal
-Get hired at OpenAI/Google as ML Engineer by 2032 earning $250K+/year.
-
 ## Progress
 
 ### February 2026
@@ -12,16 +7,16 @@ Get hired at OpenAI/Google as ML Engineer by 2032 earning $250K+/year.
   - hello.py - First program
   - mi_info.py - Variables and operations
   - calculadora_edad.py - Interactive input
+  
+- [x] Day 2: Advanced calculator ✅
+  - calculadora.py - Calculator with error handling
+  - Learned: try/except, conditionals, user input validation
 
-## Tech Stack
-- Python 3.12
-- VS Code
-- Git & GitHub
-
-## Timeline
-- 2026: Learn Python fundamentals
-- 2027-2031: University (CS degree)
-- 2032: First job in USA 🇺🇸
+## Stats
+- Days coding: 2
+- Programs created: 4
+- GitHub commits: 5
+- Lines of code: ~150
 
 ---
-**Day 1 completed: February 9, 2026** 🚀
+**Last updated: February 10, 2026** 🚀
