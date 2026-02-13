@@ -1,0 +1,7 @@
+=== MI COMBO PARA SUBIR A GITHUB ===
+
+git add README.md
+git commit -m "Add README with Day 1 progress"
+git push
+
+====================================
