@@ -1,0 +1,5 @@
+print("¡Hola, mundo!")
+print("Mi nombre es Smith Aceituno Trucios")
+print("Tengo 16 años")
+print("Voy a a prender Python en 2026")
+print("Meta: ML Engineer en OpenAI")
