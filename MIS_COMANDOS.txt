@@ -1,7 +1,7 @@
 === MI COMBO PARA SUBIR A GITHUB ===
 
-git add README.md
-git commit -m "Add README with Day 1 progress"
+git add .
+git commit -m "Actualizando mi guia de comandos con el truco del punto"
 git push
 
 ====================================
